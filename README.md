@@ -5,3 +5,4 @@ SAS allows us to generate code, use predefined tasks or build custom tasks to ac
 
 1. dataset_operations.sas - This script utlizes the library datasts pre-defined in the sas library as well as creatiion and manupilation of user-defined datasets. Operators like 'where', 'like', '%', 'noobs', 'nods' are used to subset datsets and see the functions that it performs on the said datasets.
 2. nb2.sas - This notebook encompasses dataset creation and subsetting data from said dataset using information like salary, country etc. It also incorporates grouping data in ascending/descending order within countries defined in the dataset. Giving titles and footnotes to datasets is also observed.
+3. formatting_1.sas - This script encompasses formatting operations like date, month, year and creating tiers and class bifurcation for salary variable to sort employees by dataset as well as experimenting with display options in individual columns.
